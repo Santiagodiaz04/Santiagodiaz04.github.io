@@ -1,0 +1,102 @@
+*{
+    
+    box-sizing: border-box;
+    }
+    
+    h1{ font-size: 3.5em;}
+    h2{ font-size: 1.9em;}
+    h3{ font-size: 1.5em;}
+    h4{ font-size: 1.8em;}
+    p{ font-size: 1.2em;}
+    li{ font-size: 1.1em;}
+    li{ list-style: none;}
+ 
+   
+    button{
+        
+        font-size: 100%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        padding: 10px 10px;
+        border-radius: 10px;
+        border: 2px solid blueviolet;
+        box-shadow: 4px 4px 10px blue;
+        color: black;
+        background-color: aliceblue;
+        
+        
+    }
+    
+    button:hover{
+    background-color: rgb(190, 108, 245);
+    }
+    
+    
+    .contenedor{
+        max-width: 1100px;
+        margin: auto;
+    }
+    
+    
+    header{
+        text-align: center;
+        background-color: white;
+    }
+    
+    
+    body{ 
+        
+        text-align: center;
+        margin: 0%;
+        
+    }
+    
+    #bienvenido .contenedor{
+        
+        text-align: center;
+        
+    }
+    
+    body a{
+        
+        padding: 5px, 250px;
+        text-decoration: none;
+        font-weight: bold;
+        color: blueviolet;
+        display: inline;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    
+    
+    
+    body a:hover{
+        color:  rgb(190, 108, 245);;
+    }
+    
+
+    
+    #bienvenido h3{
+        
+        font-size: 40px;
+    }
+    
+    
+    #fotos .contenedor{
+        
+        text-align: center;
+      
+        
+    } 
+   
+    
+    #videos .contenedor{
+        
+        text-align: center;
+    }
+    
+    
+
+    
+    
+    
